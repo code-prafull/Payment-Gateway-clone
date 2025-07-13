@@ -1,4 +1,4 @@
-# Razorpay-UI-Clone
+# Payment-Gateway-clone
 frontend-only clone** of Razorpay's official website, built using **HTML** and **Tailwind CSS**. This project replicates the look and feel of Razorpay's homepage and payment interface for learning and UI/UX practice.
 
 ## ✨ Features
